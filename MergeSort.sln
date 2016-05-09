@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketsSorting", "TicketsSorting\TicketsSorting.csproj", "{4D37EDF1-6B31-49EC-85EC-F8D4501B5D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{63989CAF-07FC-4CAA-AA23-A8A93F005698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D37EDF1-6B31-49EC-85EC-F8D4501B5D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D37EDF1-6B31-49EC-85EC-F8D4501B5D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D37EDF1-6B31-49EC-85EC-F8D4501B5D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D37EDF1-6B31-49EC-85EC-F8D4501B5D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63989CAF-07FC-4CAA-AA23-A8A93F005698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63989CAF-07FC-4CAA-AA23-A8A93F005698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63989CAF-07FC-4CAA-AA23-A8A93F005698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63989CAF-07FC-4CAA-AA23-A8A93F005698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
