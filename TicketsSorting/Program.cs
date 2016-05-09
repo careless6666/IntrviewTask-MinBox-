@@ -14,8 +14,8 @@ namespace TicketsSorting
             var myLinkedList = new Dictionary<string, string>
             {
                 {"Мельбурн", "Кельн"},
-                //{"Москва", "Париж"},
-               // {"Кельн", "Москва"}
+                {"Москва", "Париж"},
+                {"Кельн", "Москва"}
             };
 
             var stopWatch = new Stopwatch();
